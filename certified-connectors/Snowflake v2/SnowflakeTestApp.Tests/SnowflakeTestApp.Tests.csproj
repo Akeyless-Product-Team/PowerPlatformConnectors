@@ -58,7 +58,7 @@
     <!-- Test Utilities (.NET Framework compatible) -->
     <PackageReference Include="Moq" Version="4.16.1" />
     <PackageReference Include="Microsoft.Owin.Testing" Version="4.2.2" />
-    <PackageReference Include="Microsoft.Owin.Host.HttpListener" Version="4.2.2" />
+    <PackageReference Include="Microsoft.Owin.Host.HttpListener" Version="4.2.3" />
   </ItemGroup>
 
   <ItemGroup>
