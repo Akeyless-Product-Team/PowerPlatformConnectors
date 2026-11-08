@@ -39,7 +39,7 @@
 
   <ItemGroup>
     <!-- Test Framework Packages (.NET Framework compatible) -->
-    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    <PackageReference Include="MSTest.TestFramework" Version="4.5.2" />
     <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
     
     <!-- Web API Dependencies (aligned with main project) -->
