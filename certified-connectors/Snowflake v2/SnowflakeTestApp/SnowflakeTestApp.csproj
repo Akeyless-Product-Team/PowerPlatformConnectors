@@ -115,7 +115,7 @@
       <Version>13.0.3</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.AspNet.OData">
-      <Version>5.11.0</Version>
+      <Version>7.8.1</Version>
     </PackageReference>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt">
       <Version>6.34.0</Version>
