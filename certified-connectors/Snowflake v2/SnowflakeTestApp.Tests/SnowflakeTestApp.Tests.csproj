@@ -43,17 +43,17 @@
     <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
     
     <!-- Web API Dependencies (aligned with main project) -->
-    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.8" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.3.0" />
     <PackageReference Include="Microsoft.AspNet.WebApi.WebHost" Version="5.2.8" />
-    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.8" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />
     <PackageReference Include="Microsoft.AspNet.WebApi.SelfHost" Version="5.2.8" />
     
     <!-- Common Dependencies (aligned with main project) -->
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
     
     <!-- Dependency Injection (aligned with main project) -->
-    <PackageReference Include="Autofac" Version="3.5.2" />
-    <PackageReference Include="Autofac.WebApi2" Version="3.4.0" />
+    <PackageReference Include="Autofac" Version="8.4.0" />
+    <PackageReference Include="Autofac.WebApi2" Version="6.2.0" />
     
     <!-- Test Utilities (.NET Framework compatible) -->
     <PackageReference Include="Moq" Version="4.16.1" />
